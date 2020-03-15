@@ -1,6 +1,6 @@
 {
-  "name": "voidjs",
-  "version": "1.0.0",
+  "name": "void-template",
+  "version": "1.0.1",
   "description": "Minimalist HTML template engine in Node.js",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/menhera-org/void.js.git"
+    "url": "git+https://github.com/menhera-org/void-template.git"
   },
   "keywords": [
     "template",
@@ -17,7 +17,7 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/menhera-org/void.js/issues"
+    "url": "https://github.com/menhera-org/void-template/issues"
   },
-  "homepage": "https://github.com/menhera-org/void.js#readme"
+  "homepage": "https://github.com/menhera-org/void-template#readme"
 }
